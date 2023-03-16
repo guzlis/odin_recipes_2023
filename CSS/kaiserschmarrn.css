@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(255, 107, 179, 0.902);
+    }
+
+img {
+    height: auto;
+    width: 500px;
+    }
+
+.head {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    }
+
+.main {
+    font-size: 72px;
+    font-weight: bold;
+    }
+
+.sub {
+    font-size: 32px ;
+    }
+
+.text,
+ol,
+li,
+li span {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+ol{
+    font-weight: bold;
+    }
+
+li span {
+    font-weight: normal;
+ }
